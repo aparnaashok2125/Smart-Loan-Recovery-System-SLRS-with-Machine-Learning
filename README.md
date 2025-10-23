@@ -1,4 +1,4 @@
-# Smart Loan Recovery System SLRS with Machine-Learning
+# Smart Loan Recovery System SLRS with Machine Learning
 
 A Machine Learning project designed to help financial institutions identify high-risk borrowers, predict loan recovery outcomes, and assign dynamic recovery strategies to minimize defaults and improve repayment rates.
 
